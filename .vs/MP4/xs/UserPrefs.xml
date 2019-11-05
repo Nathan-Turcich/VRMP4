@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9413B402-CABD-A3C4-0357-C91E54545391}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AircraftController.cs">
+    <Files>
+      <File FileName="Assets/FireBullet.cs" Line="29" Column="1" IsPinned="True" />
+      <File FileName="Assets/TerrainCollider.cs" Line="12" Column="56" />
+      <File FileName="Assets/AircraftController.cs" Line="13" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MP4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="OVR" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Util" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="AircraftController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4397c4b0-b7e8-44ef-9923-4a04f8278372" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
